@@ -12,7 +12,7 @@
  */
 
 .lab{
-  background-image: url("../assets/img/back-lab.png");
+  background-image: url("back-lab.png");
   background-color:rgba(0,0,0,0.5);
 background-blend-mode:darken;
 
@@ -21,7 +21,7 @@ background-blend-mode:darken;
 
 .back-images{
   
-  background-image: url("../assets/img/lab.jpg");
+  background-image: url("lab.jpg");
   background-size: cover;
 }
 
