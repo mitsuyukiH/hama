@@ -1,0 +1,33 @@
+.box{
+    
+  border-radius: 6px; /*角丸の指定*/
+  padding:5px;
+  border:2px solid black
+  }
+
+  .pay-back{
+   
+    background-size: contain;
+  }
+  .text-red{
+    color: red;
+  }
+  .card-color{
+    background-color: rgb(29, 34, 73);
+    border-radius: 6px; /*角丸の指定*/
+    
+  }
+
+  .text-bold-blue{
+    color: #082cf8;
+    font-family: 'Kosugi Maru', sans-serif;
+  }
+  .text-bold-white{
+    color: white;
+    font-family: 'Kosugi Maru', sans-serif;
+  }
+  
+  .text-regular-blue{
+    color: #082cf8;
+    font-family: 'Klee One', cursive;
+  }
